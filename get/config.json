@@ -1,0 +1,7 @@
+{
+  "bucketName": ".sgas.cto.lambda-files.",
+  "keyName": "nodejs/lambda-functions-get.zip",
+  "zipFile": "lambda-functions-get.zip",
+  "sourceFolder": ".",
+  "src": ["get/index.js", "lib/*.js"]
+}

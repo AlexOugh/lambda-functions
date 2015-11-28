@@ -1,0 +1,7 @@
+{
+  "bucketName": ".sgas.cto.lambda-files.",
+  "keyName": "nodejs/login.zip",
+  "zipFile": "login.zip",
+  "sourceFolder": ".",
+  "src": ["login/index.js", "lib/*.js"]
+}

@@ -1,0 +1,7 @@
+{
+  "bucketName": ".sgas.cto.lambda-files.",
+  "keyName": "nodejs/lambda-functions-update.zip",
+  "zipFile": "lambda-functions-update.zip",
+  "sourceFolder": ".",
+  "src": ["update/index.js", "lib/*.js"]
+}
